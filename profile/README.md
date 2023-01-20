@@ -5,7 +5,7 @@
 ### Our Services
 
 <li>Custom software development</li>
-<li>Bulk SMS, WatsApp, Email campaign </li>
+<li>Bulk SMS, WhatsApp, Email campaign </li>
 <li>Website design and development</li>
 <li>Digital marketing</li>
 <li>E-commerce solutions</li>
